@@ -9,6 +9,7 @@ public class Stale {
 		double paperHeight = 11;
 		System.out.println("Rozmiary papieru w centymetrach: "
 		+paperWidth*CM_PER_INCH + " na " +paperHeight*CM_PER_INCH);
+		
 	}
 
 }
